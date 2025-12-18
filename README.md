@@ -24,3 +24,22 @@ https://github.com/japkozjad/st-action-pickers
 This extension is compatible with SillyTavern 1.13+.
 
 # Screenshots
+### Time Skip popup
+<img width="308" height="315" alt="timeskip" src="https://github.com/user-attachments/assets/b9f64a11-dc1d-4c8b-b1ef-f89f98e322ed" />
+
+### Time Skip result
+<img width="608" height="30" alt="timeskip-result" src="https://github.com/user-attachments/assets/47a16a25-133d-42af-9a33-8b5cf7246ada" />
+
+### Call popup
+<img width="316" height="226" alt="call" src="https://github.com/user-attachments/assets/1167bb10-fbff-4208-9fbb-46f5c044f6d6" />
+
+### Call result
+<img width="616" height="29" alt="call-result" src="https://github.com/user-attachments/assets/a50fe1e0-e098-4363-bab2-5f01d0cb6ce2" />
+
+### Action select popup
+<img width="335" height="616" alt="actionselect-1" src="https://github.com/user-attachments/assets/d17484e4-aa86-4a66-9468-d27d9d629236" />
+<img width="347" height="681" alt="actionselect-2" src="https://github.com/user-attachments/assets/41ec7e3f-ad8f-45e9-a4ae-125978d5c853" />
+<img width="326" height="209" alt="actionselect-3" src="https://github.com/user-attachments/assets/fa346de0-8ef3-4b31-b998-32d41501f63d" />
+
+### Action select result
+<img width="611" height="229" alt="actionselect-result" src="https://github.com/user-attachments/assets/784b73af-1638-4f92-becf-5eb1173873f0" />
