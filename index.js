@@ -924,7 +924,7 @@ SlashCommandParser.addCommandObject(SlashCommand.fromProps({
 
 SlashCommandParser.addCommandObject(SlashCommand.fromProps({
     name: 'call',
-    helpText: 'Displays a call popup where you can initiate a phone call request.',
+    helpString: 'Displays a call popup where you can initiate a phone call request.',
     callback: async () => {
         createCallerPopup();
     }
@@ -932,7 +932,7 @@ SlashCommandParser.addCommandObject(SlashCommand.fromProps({
 
 SlashCommandParser.addCommandObject(SlashCommand.fromProps({
     name: 'timeskip',
-    helpText: 'Displays a time skip popup where you can manage the time flow using an interactive UI.',
+    helpString: 'Displays a time skip popup where you can manage the time flow using an interactive UI.',
     callback: async () => {
         createTimeskipPopup();
     }
@@ -940,7 +940,7 @@ SlashCommandParser.addCommandObject(SlashCommand.fromProps({
 
 SlashCommandParser.addCommandObject(SlashCommand.fromProps({
     name: 'actionselect',
-    helpText: 'Displays an action selection popup where you can choose a desired action using from interactive UI.',
+    helpString: 'Displays an action selection popup where you can choose a desired action using from interactive UI.',
     callback: async () => {
         await createActionSelectionPopup({});
     }
