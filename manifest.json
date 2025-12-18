@@ -1,0 +1,10 @@
+{
+    "display_name": "Sillytavern-Action-Pickers",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "Japkozjad",
+    "version": "1.0",
+    "homePage": "https://github.com/japkozjad/st-action-pickers"
+}
